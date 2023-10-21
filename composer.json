@@ -1,0 +1,15 @@
+{
+    "name": "arafa/orange-mvc",
+    "description": "Orange is a mvc framework made by php",
+    "authors": [
+        {
+            "name": "arafat"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
